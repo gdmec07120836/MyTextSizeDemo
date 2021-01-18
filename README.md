@@ -1,0 +1,2 @@
+# MyTextSizeDemo
+动态文字尺寸的TextView（根据TextView所占的宽度来动态设置TextSize）
